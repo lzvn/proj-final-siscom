@@ -20,7 +20,7 @@
   "homepage": "https://github.com/r0100/proj-final-siscom#readme",
   "dependencies": {
     "browserify": "^16.5.2",
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "install": "^0.13.0",
     "ml-convolution": "^2.0.0",
     "nan": "^2.14.1",
